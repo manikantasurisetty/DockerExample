@@ -21,8 +21,6 @@ simple-docker-node-example-container-Can be your custom container name
 simple-docker-node-example-Should be your Image name
 -p 3000:80 -Publish your code on 3000 pport from 80 port(optional argument)
 
-With the boave setting sin place you can run http://localhost:3000/ to see the basic app running
-
-
+With the above setting sin place you can run http://localhost:3000/ to see the basic app running
 
 
